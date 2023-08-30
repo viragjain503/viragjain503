@@ -17,11 +17,14 @@
 ***
 
  <br>
-
+📈 My Leetcode stats <br />
+  <p align="center">
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/viragjainedu)
+    <br />
+</p>
 📈 My Github stats <br />
 <p align="center">
-<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viragjain503&layout=compact&theme=dark" alt="top-langs" /> -->
-     <img src="https://github-readme-stats.vercel.app/api?username=viragjain503&theme=dark&show_icons=true" alt="viragjain503stats" />  
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viragjain503&layout=compact&theme=dark" alt="top-langs" />
     <br />
 </p>
 
