@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working in Oracle :wink:.
-- 🌱  I’m interested in developing scalable servers. 
+- 🌱  I’m interested in developing scalable applications. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: viragjain.work@gmail.com.
 
