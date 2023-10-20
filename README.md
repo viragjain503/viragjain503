@@ -19,7 +19,7 @@
  <br>
 📈 My Leetcode stats <br />
   <p align="center">
-![Leetcode Stats](https://leetcard.jacoblin.cool/viragjainedu)
+     <img src="https://leetcard.jacoblin.cool/viragjainedu" alt="top-langs" />
     <br />
 </p>
 📈 My Github stats <br />
