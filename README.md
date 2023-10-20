@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.linkedin.com/in/virag-jain-58166510a/">Virag</a></h2>
+<h2 align="center">Hey 👋, I'm <a href="https://www.linkedin.com/in/virag-jain-58166510a/">Virag</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/virag-jain-58166510a/">LinkedIN</a> •
   <a href="https://www.instagram.com/viragjain503/">Instagram</a> •
