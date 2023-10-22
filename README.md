@@ -1,8 +1,9 @@
 <h2 align="center">Hey 👋, I'm <a href="https://www.linkedin.com/in/virag-jain-58166510a/">Virag</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/virag-jain-58166510a/">LinkedIN</a> •
+  <a href="https://www.linkedin.com/in/viragjain503/">LinkedIn</a> •
+  <a href="https://viragjain503.github.io/">Portfolio</a> •
   <a href="https://www.instagram.com/viragjain503/">Instagram</a> •
-  <a href="https://twitter.com/viragjain503">Twitter</a>
+  <a href="https://medium.com/@viragjain.work">Medium</a>
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
