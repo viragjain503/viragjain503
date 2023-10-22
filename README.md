@@ -27,9 +27,8 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viragjain503&layout=compact&theme=dark" alt="top-langs" />
     <br />
+   <img src="https://ghchart.rshah.org/viragjain503" alt="Name Your Github chart"  style="width: 100%; height: auto;">
 </p>
-
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 <br>
 
